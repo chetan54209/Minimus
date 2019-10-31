@@ -8,3 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Minimus';
 }
+
+// https://github.com/hamedbaatour/minimus/blob/master/src/app/app.module.ts
